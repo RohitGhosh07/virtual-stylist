@@ -1,0 +1,5 @@
+{
+  "name": "Virtual Stylist AI",
+  "description": "An intelligent fashion assistant that generates complete outfit ideas on a realistic 3D human model from a single clothing item using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
